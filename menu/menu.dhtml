@@ -1,14 +1,14 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//Dtd HTML 4.0 transitional//EN">
 <html lang="ru">
 <head>
-<title>Экономика предприятия</title>
+<title>Р­РєРѕРЅРѕРјРёРєР° РїСЂРµРґРїСЂРёСЏС‚РёСЏ</title>
 <meta http-equiv="Resource-Type" content="document">
 <meta http-equiv="Distribution" content="global">
 <meta http-equiv="Pragma" content="no-cache">
 <meta name="language" content="ru">
 <meta name="robots" content="index,follow">
-<meta name="description" content="Экономика предприятия. Налоговые схемы. Финансовый анализ. Финансовое планирование. Рынок ценных бумаг. Векселя">
-<meta name="keywords" content="вексельные схемы, оффшор, налог, налогообложение, offshore, экономический, льгота, налоговый, планирование, анализ, ндс, прибыль, подоходный, услуги, юридические, консультации, финансовое, акций, договоров, ценных, бумаг, законодательство, ГНИ, ГНАУ">
+<meta name="description" content="Р­РєРѕРЅРѕРјРёРєР° РїСЂРµРґРїСЂРёСЏС‚РёСЏ. РќР°Р»РѕРіРѕРІС‹Рµ СЃС…РµРјС‹. Р¤РёРЅР°РЅСЃРѕРІС‹Р№ Р°РЅР°Р»РёР·. Р¤РёРЅР°РЅСЃРѕРІРѕРµ РїР»Р°РЅРёСЂРѕРІР°РЅРёРµ. Р С‹РЅРѕРє С†РµРЅРЅС‹С… Р±СѓРјР°Рі. Р’РµРєСЃРµР»СЏ">
+<meta name="keywords" content="РІРµРєСЃРµР»СЊРЅС‹Рµ СЃС…РµРјС‹, РѕС„С„С€РѕСЂ, РЅР°Р»РѕРі, РЅР°Р»РѕРіРѕРѕР±Р»РѕР¶РµРЅРёРµ, offshore, СЌРєРѕРЅРѕРјРёС‡РµСЃРєРёР№, Р»СЊРіРѕС‚Р°, РЅР°Р»РѕРіРѕРІС‹Р№, РїР»Р°РЅРёСЂРѕРІР°РЅРёРµ, Р°РЅР°Р»РёР·, РЅРґСЃ, РїСЂРёР±С‹Р»СЊ, РїРѕРґРѕС…РѕРґРЅС‹Р№, СѓСЃР»СѓРіРё, СЋСЂРёРґРёС‡РµСЃРєРёРµ, РєРѕРЅСЃСѓР»СЊС‚Р°С†РёРё, С„РёРЅР°РЅСЃРѕРІРѕРµ, Р°РєС†РёР№, РґРѕРіРѕРІРѕСЂРѕРІ, С†РµРЅРЅС‹С…, Р±СѓРјР°Рі, Р·Р°РєРѕРЅРѕРґР°С‚РµР»СЊСЃС‚РІРѕ, Р“РќР, Р“РќРђРЈ">
 <link rel="stylesheet" type="text/css" href="../index/styles.css">
 
 <style type="text/css">
@@ -25,25 +25,25 @@ scrollbar-track-color:#3c9c6a;}
 
 <script language="JavaScript" type="text/javascript">
 <!--Copyright (C) 1998-2001 Web-studio "Cherry-Design"
-  //Текст статьи подробно описывающей данный скрипт находится по адресу: http://www.cherry-design.spb.ru/articles/article_31.htm -->
+  //РўРµРєСЃС‚ СЃС‚Р°С‚СЊРё РїРѕРґСЂРѕР±РЅРѕ РѕРїРёСЃС‹РІР°СЋС‰РµР№ РґР°РЅРЅС‹Р№ СЃРєСЂРёРїС‚ РЅР°С…РѕРґРёС‚СЃСЏ РїРѕ Р°РґСЂРµСЃСѓ: http://www.cherry-design.spb.ru/articles/article_31.htm -->
 if (window.parent.frames.length == 0)
 {location.href="../index.htm";}
 //--></script>
 
-<!-- Скрипт для осуществления поиска -->
+<!-- РЎРєСЂРёРїС‚ РґР»СЏ РѕСЃСѓС‰РµСЃС‚РІР»РµРЅРёСЏ РїРѕРёСЃРєР° -->
 <script language="JavaScript" type="text/javascript" src="./images/tip_form.js"></script>
-<!-- /Скрипт для осуществления поиска -->
+<!-- /РЎРєСЂРёРїС‚ РґР»СЏ РѕСЃСѓС‰РµСЃС‚РІР»РµРЅРёСЏ РїРѕРёСЃРєР° -->
 
 </head>
 
-<!-- Скрипт для меню -->
+<!-- РЎРєСЂРёРїС‚ РґР»СЏ РјРµРЅСЋ -->
 <script language="Javascript" type="text/javascript" src="images/stdlib.js"></script>
-<!-- /Скрипт для меню -->
+<!-- /РЎРєСЂРёРїС‚ РґР»СЏ РјРµРЅСЋ -->
 
 <body leftMargin="0" topMargin="0" marginwidth="0" marginheight="0" class="fon">
 
 <script language="Javascript" type="text/javascript">
-<!-- Скрипт меню -->
+<!-- РЎРєСЂРёРїС‚ РјРµРЅСЋ -->
 function changeNav(elemId)
 {if(document.layers)return;
 if(dom) 
@@ -63,13 +63,13 @@ else {document.all[elemId].style.display = "block";
 a = document.all[elemId+"-nav"];
 if(a) a.src = "images/e.gif"}}
 //--></script>
-<!-- Скрипт меню -->
+<!-- РЎРєСЂРёРїС‚ РјРµРЅСЋ -->
 
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr>
 <td width="5" height="21" bgColor="#2E8B57"></td>
 <td width="20" bgColor="#2E8B57" class="middle"><img src="images/icon_home.gif" border="0"></td>
-<td width="217" bgColor="#2E8B57"><a class=toplevel href="../index/main.htm" target="main">Главная</a></td></tr>
+<td width="217" bgColor="#2E8B57"><a class=toplevel href="../index/main.htm" target="main">Р“Р»Р°РІРЅР°СЏ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -78,7 +78,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#2E8B57">
 <td width="8" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0001')"><img src="images/c.gif" border="0" name="0001-nav"></a></td>
-<td width="217"><a class=toplevel href="javascript:%20changeNav('0001')">Финансы предприятия</a></td></tr>
+<td width="217"><a class=toplevel href="javascript:%20changeNav('0001')">Р¤РёРЅР°РЅСЃС‹ РїСЂРµРґРїСЂРёСЏС‚РёСЏ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -87,7 +87,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../finans/files/000.htm" target="main">Загрузить материалы</a></td></tr>
+<td width="215"><a class=level href="../finans/files/000.htm" target="main">Р—Р°РіСЂСѓР·РёС‚СЊ РјР°С‚РµСЂРёР°Р»С‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -97,7 +97,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0003')"><img src="images/c.gif" border="0" name=0003-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0003')">Управление издержками</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0003')">РЈРїСЂР°РІР»РµРЅРёРµ РёР·РґРµСЂР¶РєР°РјРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -106,7 +106,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/zatrat/001.htm" target="main">Расчет затрат в контроллинге</a></td></tr>
+<td width="203"><a class=level href="../finans/zatrat/001.htm" target="main">Р Р°СЃС‡РµС‚ Р·Р°С‚СЂР°С‚ РІ РєРѕРЅС‚СЂРѕР»Р»РёРЅРіРµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -115,7 +115,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/zatrat/002.htm" target="main">Таргет-костинг</a></td></tr>
+<td width="203"><a class=level href="../finans/zatrat/002.htm" target="main">РўР°СЂРіРµС‚-РєРѕСЃС‚РёРЅРі</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -124,7 +124,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/zatrat/003.htm" target="main">Акробатика затрат</a></td></tr>
+<td width="203"><a class=level href="../finans/zatrat/003.htm" target="main">РђРєСЂРѕР±Р°С‚РёРєР° Р·Р°С‚СЂР°С‚</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -133,7 +133,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/zatrat/004.htm" target="main">Бизнес Юнит Менеджмент</a></td></tr>
+<td width="203"><a class=level href="../finans/zatrat/004.htm" target="main">Р‘РёР·РЅРµСЃ Р®РЅРёС‚ РњРµРЅРµРґР¶РјРµРЅС‚</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -142,7 +142,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/zatrat/000/000.htm" target="main">Анализ безубыточности</a></td></tr>
+<td width="203"><a class=level href="../finans/zatrat/000/000.htm" target="main">РђРЅР°Р»РёР· Р±РµР·СѓР±С‹С‚РѕС‡РЅРѕСЃС‚Рё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -151,7 +151,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/zatrat/001/001.htm" target="main">Управление затратами</a></td></tr>
+<td width="203"><a class=level href="../finans/zatrat/001/001.htm" target="main">РЈРїСЂР°РІР»РµРЅРёРµ Р·Р°С‚СЂР°С‚Р°РјРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -161,7 +161,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0010')"><img src="images/c.gif" border="0" name=0010-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0010')">Финансовый анализ</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0010')">Р¤РёРЅР°РЅСЃРѕРІС‹Р№ Р°РЅР°Р»РёР·</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -170,7 +170,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/analis/001.htm" target="main">Методика расчёта индикаторов</a></td></tr>
+<td width="203"><a class=level href="../finans/analis/001.htm" target="main">РњРµС‚РѕРґРёРєР° СЂР°СЃС‡С‘С‚Р° РёРЅРґРёРєР°С‚РѕСЂРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -179,7 +179,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/analis/002.htm" target="main">Классификация показателей</a></td></tr>
+<td width="203"><a class=level href="../finans/analis/002.htm" target="main">РљР»Р°СЃСЃРёС„РёРєР°С†РёСЏ РїРѕРєР°Р·Р°С‚РµР»РµР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -188,7 +188,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/analis/004.htm" target="main">Финансовые показатели</a></td></tr>
+<td width="203"><a class=level href="../finans/analis/004.htm" target="main">Р¤РёРЅР°РЅСЃРѕРІС‹Рµ РїРѕРєР°Р·Р°С‚РµР»Рё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -197,7 +197,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/analis/005.htm" target="main">Выводы по результатам анализа</a></td></tr>
+<td width="203"><a class=level href="../finans/analis/005.htm" target="main">Р’С‹РІРѕРґС‹ РїРѕ СЂРµР·СѓР»СЊС‚Р°С‚Р°Рј Р°РЅР°Р»РёР·Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -206,7 +206,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/analis/003.htm" target="main">Система управленческого учета</a></td></tr>
+<td width="203"><a class=level href="../finans/analis/003.htm" target="main">РЎРёСЃС‚РµРјР° СѓРїСЂР°РІР»РµРЅС‡РµСЃРєРѕРіРѕ СѓС‡РµС‚Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -216,7 +216,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0014')"><img src="images/c.gif" border="0" name=0014-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0014')">Избранное</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0014')">РР·Р±СЂР°РЅРЅРѕРµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -225,7 +225,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/000.htm" target="main">Инструментарий финдиректора</a></td></tr>
+<td width="203"><a class=level href="../finans/other/000.htm" target="main">РРЅСЃС‚СЂСѓРјРµРЅС‚Р°СЂРёР№ С„РёРЅРґРёСЂРµРєС‚РѕСЂР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -234,7 +234,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/000/000.htm" target="main">Техника финансовых вычислений</a></td></tr>
+<td width="203"><a class=level href="../finans/other/000/000.htm" target="main">РўРµС…РЅРёРєР° С„РёРЅР°РЅСЃРѕРІС‹С… РІС‹С‡РёСЃР»РµРЅРёР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -243,7 +243,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/001.htm" target="main">Управленческий учет в компании</a></td></tr>
+<td width="203"><a class=level href="../finans/other/001.htm" target="main">РЈРїСЂР°РІР»РµРЅС‡РµСЃРєРёР№ СѓС‡РµС‚ РІ РєРѕРјРїР°РЅРёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -252,7 +252,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/002.htm" target="main">Бюджетирование</a></td></tr>
+<td width="203"><a class=level href="../finans/other/002.htm" target="main">Р‘СЋРґР¶РµС‚РёСЂРѕРІР°РЅРёРµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -261,7 +261,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/003.htm" target="main">Модель оптимального заказа</a></td></tr>
+<td width="203"><a class=level href="../finans/other/003.htm" target="main">РњРѕРґРµР»СЊ РѕРїС‚РёРјР°Р»СЊРЅРѕРіРѕ Р·Р°РєР°Р·Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -270,7 +270,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/004.htm" target="main">Кайзен-костинг</a></td></tr>
+<td width="203"><a class=level href="../finans/other/004.htm" target="main">РљР°Р№Р·РµРЅ-РєРѕСЃС‚РёРЅРі</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -279,7 +279,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/005.htm" target="main">Влияние способов амортизации</a></td></tr>
+<td width="203"><a class=level href="../finans/other/005.htm" target="main">Р’Р»РёСЏРЅРёРµ СЃРїРѕСЃРѕР±РѕРІ Р°РјРѕСЂС‚РёР·Р°С†РёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -288,7 +288,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../finans/other/006.htm" target="main">Управление ростом</a></td></tr>
+<td width="203"><a class=level href="../finans/other/006.htm" target="main">РЈРїСЂР°РІР»РµРЅРёРµ СЂРѕСЃС‚РѕРј</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -298,7 +298,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#2E8B57">
 <td width="8" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0023')"><img src="images/c.gif" border="0" name="0023-nav"></a></td>
-<td width="217"><a class=toplevel href="javascript:%20changeNav('0023')">Рынок ценных бумаг</a></td></tr>
+<td width="217"><a class=toplevel href="javascript:%20changeNav('0023')">Р С‹РЅРѕРє С†РµРЅРЅС‹С… Р±СѓРјР°Рі</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -307,7 +307,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../paper/000/001.htm" target="main">Вексель - засіб оптимізації податків</a></td></tr>
+<td width="215"><a class=level href="../paper/000/001.htm" target="main">Р’РµРєСЃРµР»СЊ - Р·Р°СЃС–Р± РѕРїС‚РёРјС–Р·Р°С†С–С— РїРѕРґР°С‚РєС–РІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -316,7 +316,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../paper/001.htm" target="main">Фондовые индексы</a></td></tr>
+<td width="215"><a class=level href="../paper/001.htm" target="main">Р¤РѕРЅРґРѕРІС‹Рµ РёРЅРґРµРєСЃС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -325,7 +325,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../paper/002.htm" target="main">Еще о фондовых индексах</a></td></tr>
+<td width="215"><a class=level href="../paper/002.htm" target="main">Р•С‰Рµ Рѕ С„РѕРЅРґРѕРІС‹С… РёРЅРґРµРєСЃР°С…</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -335,7 +335,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#2E8B57">
 <td width="8" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0027')"><img src="images/c.gif" border="0" name="0027-nav"></a></td>
-<td width="217"><a class=toplevel href="javascript:%20changeNav('0027')">Налогообложение</a></td></tr>
+<td width="217"><a class=toplevel href="javascript:%20changeNav('0027')">РќР°Р»РѕРіРѕРѕР±Р»РѕР¶РµРЅРёРµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -344,7 +344,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../nalogi/filosof/001.htm" target="main">Философия</a></td></tr>
+<td width="215"><a class=level href="../nalogi/filosof/001.htm" target="main">Р¤РёР»РѕСЃРѕС„РёСЏ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -353,7 +353,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../nalogi/filosof/002.htm" target="main">Жаргонный словарь</a></td></tr>
+<td width="215"><a class=level href="../nalogi/filosof/002.htm" target="main">Р–Р°СЂРіРѕРЅРЅС‹Р№ СЃР»РѕРІР°СЂСЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -362,7 +362,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../nalogi/filosof/011.htm" target="main">Отдельные налоговые термины</a></td></tr>
+<td width="215"><a class=level href="../nalogi/filosof/011.htm" target="main">РћС‚РґРµР»СЊРЅС‹Рµ РЅР°Р»РѕРіРѕРІС‹Рµ С‚РµСЂРјРёРЅС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -371,7 +371,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../nalogi/filosof/012.htm" target="main">Принципы оптимизации</a></td></tr>
+<td width="215"><a class=level href="../nalogi/filosof/012.htm" target="main">РџСЂРёРЅС†РёРїС‹ РѕРїС‚РёРјРёР·Р°С†РёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -380,7 +380,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../nalogi/filosof/005.htm" target="main">Виды оптимизации</a></td></tr>
+<td width="215"><a class=level href="../nalogi/filosof/005.htm" target="main">Р’РёРґС‹ РѕРїС‚РёРјРёР·Р°С†РёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -390,7 +390,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0031')"><img src="images/c.gif" border="0" name=0031-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0031')">Интересное о налогах</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0031')">РРЅС‚РµСЂРµСЃРЅРѕРµ Рѕ РЅР°Р»РѕРіР°С…</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -399,7 +399,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/filosof/004.htm" target="main">Истории о налогах</a></td></tr>
+<td width="203"><a class=level href="../nalogi/filosof/004.htm" target="main">РСЃС‚РѕСЂРёРё Рѕ РЅР°Р»РѕРіР°С…</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -408,7 +408,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/filosof/006.htm" target="main">Анекдоты</a></td></tr>
+<td width="203"><a class=level href="../nalogi/filosof/006.htm" target="main">РђРЅРµРєРґРѕС‚С‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -417,7 +417,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/filosof/003.htm" target="main">Афоризмы</a></td></tr>
+<td width="203"><a class=level href="../nalogi/filosof/003.htm" target="main">РђС„РѕСЂРёР·РјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -426,7 +426,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/filosof/007.htm" target="main">Интересные факты</a></td></tr>
+<td width="203"><a class=level href="../nalogi/filosof/007.htm" target="main">РРЅС‚РµСЂРµСЃРЅС‹Рµ С„Р°РєС‚С‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -435,7 +435,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/filosof/008.htm" target="main">Виды налогов</a></td></tr>
+<td width="203"><a class=level href="../nalogi/filosof/008.htm" target="main">Р’РёРґС‹ РЅР°Р»РѕРіРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -444,7 +444,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/filosof/009.htm" target="main">Это интересно</a></td></tr>
+<td width="203"><a class=level href="../nalogi/filosof/009.htm" target="main">Р­С‚Рѕ РёРЅС‚РµСЂРµСЃРЅРѕ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -453,7 +453,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/filosof/010.htm" target="main">Художественная литература</a></td></tr>
+<td width="203"><a class=level href="../nalogi/filosof/010.htm" target="main">РҐСѓРґРѕР¶РµСЃС‚РІРµРЅРЅР°СЏ Р»РёС‚РµСЂР°С‚СѓСЂР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -463,7 +463,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0039')"><img src="images/c.gif" border="0" name=0039-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0039')">Виды налогов</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0039')">Р’РёРґС‹ РЅР°Р»РѕРіРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -472,7 +472,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/protax/001.htm" target="main">Налог на прибыль</a></td></tr>
+<td width="203"><a class=level href="../nalogi/protax/001.htm" target="main">РќР°Р»РѕРі РЅР° РїСЂРёР±С‹Р»СЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -481,7 +481,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/protax/002.htm" target="main">Налог на добавленную стоимость</a></td></tr>
+<td width="203"><a class=level href="../nalogi/protax/002.htm" target="main">РќР°Р»РѕРі РЅР° РґРѕР±Р°РІР»РµРЅРЅСѓСЋ СЃС‚РѕРёРјРѕСЃС‚СЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -490,7 +490,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/protax/003.htm" target="main">Подоходный налог</a></td></tr>
+<td width="203"><a class=level href="../nalogi/protax/003.htm" target="main">РџРѕРґРѕС…РѕРґРЅС‹Р№ РЅР°Р»РѕРі</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -499,7 +499,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/protax/004.htm" target="main">Оффшоры</a></td></tr>
+<td width="203"><a class=level href="../nalogi/protax/004.htm" target="main">РћС„С„С€РѕСЂС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -509,7 +509,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#2E8B57">
 <td width="8" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0044')"><img src="images/c.gif" border="0" name="0044-nav"></a></td>
-<td width="217"><a class=toplevel href="javascript:%20changeNav('0044')">Серые схемы</a></td></tr>
+<td width="217"><a class=toplevel href="javascript:%20changeNav('0044')">РЎРµСЂС‹Рµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -518,7 +518,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../nalogi/grey/000.htm" target="main">Серые схемы</a></td></tr>
+<td width="215"><a class=level href="../nalogi/grey/000.htm" target="main">РЎРµСЂС‹Рµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -528,7 +528,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0046')"><img src="images/c.gif" border="0" name=0046-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0046')">Схемы "обналичивания"</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0046')">РЎС…РµРјС‹ "РѕР±РЅР°Р»РёС‡РёРІР°РЅРёСЏ"</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -537,7 +537,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/007.htm" target="main">с легализацией продукции</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/007.htm" target="main">СЃ Р»РµРіР°Р»РёР·Р°С†РёРµР№ РїСЂРѕРґСѓРєС†РёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -546,7 +546,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/008.htm" target="main">с конвертацией</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/008.htm" target="main">СЃ РєРѕРЅРІРµСЂС‚Р°С†РёРµР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -555,7 +555,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/009.htm" target="main">с импортом товара</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/009.htm" target="main">СЃ РёРјРїРѕСЂС‚РѕРј С‚РѕРІР°СЂР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -564,7 +564,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/017.htm" target="main">с договором на выполнение работ</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/017.htm" target="main">СЃ РґРѕРіРѕРІРѕСЂРѕРј РЅР° РІС‹РїРѕР»РЅРµРЅРёРµ СЂР°Р±РѕС‚</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -573,7 +573,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/018.htm" target="main">через получение кредита</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/018.htm" target="main">С‡РµСЂРµР· РїРѕР»СѓС‡РµРЅРёРµ РєСЂРµРґРёС‚Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -582,7 +582,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/019.htm" target="main">с использованием ссуд</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/019.htm" target="main">СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј СЃСЃСѓРґ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -591,7 +591,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/020.htm" target="main">с расторжением контракта</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/020.htm" target="main">СЃ СЂР°СЃС‚РѕСЂР¶РµРЅРёРµРј РєРѕРЅС‚СЂР°РєС‚Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -600,7 +600,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/021.htm" target="main">с общественной организацией</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/021.htm" target="main">СЃ РѕР±С‰РµСЃС‚РІРµРЅРЅРѕР№ РѕСЂРіР°РЅРёР·Р°С†РёРµР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -610,7 +610,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0055')"><img src="images/c.gif" border="0" name=0055-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0055')">Схемы "отмывания"</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0055')">РЎС…РµРјС‹ "РѕС‚РјС‹РІР°РЅРёСЏ"</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -619,7 +619,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/031.htm" target="main">с помощью фальшивых авизо</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/031.htm" target="main">СЃ РїРѕРјРѕС‰СЊСЋ С„Р°Р»СЊС€РёРІС‹С… Р°РІРёР·Рѕ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -628,7 +628,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/072.htm" target="main">капиталы "серых" бизнесменов</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/072.htm" target="main">РєР°РїРёС‚Р°Р»С‹ "СЃРµСЂС‹С…" Р±РёР·РЅРµСЃРјРµРЅРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -638,7 +638,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0058')"><img src="images/c.gif" border="0" name=0058-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0058')">Схемы "отката"</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0058')">РЎС…РµРјС‹ "РѕС‚РєР°С‚Р°"</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -647,7 +647,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/003.htm" target="main">перефактурирование</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/003.htm" target="main">РїРµСЂРµС„Р°РєС‚СѓСЂРёСЂРѕРІР°РЅРёРµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -657,7 +657,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0060')"><img src="images/c.gif" border="0" name=0060-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0060')">Международные</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0060')">РњРµР¶РґСѓРЅР°СЂРѕРґРЅС‹Рµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -666,7 +666,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/001.htm" target="main">перевод денег за рубеж</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/001.htm" target="main">РїРµСЂРµРІРѕРґ РґРµРЅРµРі Р·Р° СЂСѓР±РµР¶</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -675,7 +675,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/004.htm" target="main">игорный бизнес</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/004.htm" target="main">РёРіРѕСЂРЅС‹Р№ Р±РёР·РЅРµСЃ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -684,7 +684,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/005.htm" target="main">отчуждение активов</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/005.htm" target="main">РѕС‚С‡СѓР¶РґРµРЅРёРµ Р°РєС‚РёРІРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -694,7 +694,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0064')"><img src="images/c.gif" border="0" name=0064-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0064')">Оптимизация НДС</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0064')">РћРїС‚РёРјРёР·Р°С†РёСЏ РќР”РЎ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -703,7 +703,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/006.htm" target="main">лжеэкспорт</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/006.htm" target="main">Р»Р¶РµСЌРєСЃРїРѕСЂС‚</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -712,7 +712,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/033.htm" target="main">возмещение НДС</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/033.htm" target="main">РІРѕР·РјРµС‰РµРЅРёРµ РќР”РЎ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -721,7 +721,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/035.htm" target="main">переуступка экспортной выручки</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/035.htm" target="main">РїРµСЂРµСѓСЃС‚СѓРїРєР° СЌРєСЃРїРѕСЂС‚РЅРѕР№ РІС‹СЂСѓС‡РєРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -730,7 +730,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/036.htm" target="main">экспортно-импортная схема</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/036.htm" target="main">СЌРєСЃРїРѕСЂС‚РЅРѕ-РёРјРїРѕСЂС‚РЅР°СЏ СЃС…РµРјР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -739,7 +739,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/037.htm" target="main">экспортная схема (вариант 1)</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/037.htm" target="main">СЌРєСЃРїРѕСЂС‚РЅР°СЏ СЃС…РµРјР° (РІР°СЂРёР°РЅС‚ 1)</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -748,7 +748,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/038.htm" target="main">экспортная схема (вариант 2)</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/038.htm" target="main">СЌРєСЃРїРѕСЂС‚РЅР°СЏ СЃС…РµРјР° (РІР°СЂРёР°РЅС‚ 2)</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -757,7 +757,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/051.htm" target="main">с использованием векселей</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/051.htm" target="main">СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј РІРµРєСЃРµР»РµР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -766,7 +766,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/066.htm" target="main">с обществом инвалидов</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/066.htm" target="main">СЃ РѕР±С‰РµСЃС‚РІРѕРј РёРЅРІР°Р»РёРґРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -775,7 +775,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/070.htm" target="main">с использованием лизинга</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/070.htm" target="main">СЃ РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµРј Р»РёР·РёРЅРіР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -784,7 +784,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/076.htm" target="main">возмещения НДС от налоговиков</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/076.htm" target="main">РІРѕР·РјРµС‰РµРЅРёСЏ РќР”РЎ РѕС‚ РЅР°Р»РѕРіРѕРІРёРєРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -793,7 +793,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/085.htm" target="main">как законно минимизировать НДС</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/085.htm" target="main">РєР°Рє Р·Р°РєРѕРЅРЅРѕ РјРёРЅРёРјРёР·РёСЂРѕРІР°С‚СЊ РќР”РЎ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -803,7 +803,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0076')"><img src="images/c.gif" border="0" name=0076-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0076')">Оптимизация налога на прибыль</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0076')">РћРїС‚РёРјРёР·Р°С†РёСЏ РЅР°Р»РѕРіР° РЅР° РїСЂРёР±С‹Р»СЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -812,7 +812,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/040.htm" target="main">способы сохранения прибыли</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/040.htm" target="main">СЃРїРѕСЃРѕР±С‹ СЃРѕС…СЂР°РЅРµРЅРёСЏ РїСЂРёР±С‹Р»Рё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -821,7 +821,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/041.htm" target="main">с давальческим сырьем</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/041.htm" target="main">СЃ РґР°РІР°Р»СЊС‡РµСЃРєРёРј СЃС‹СЂСЊРµРј</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -830,7 +830,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/048.htm" target="main">с низконалоговой компанией</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/048.htm" target="main">СЃ РЅРёР·РєРѕРЅР°Р»РѕРіРѕРІРѕР№ РєРѕРјРїР°РЅРёРµР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -839,7 +839,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/065.htm" target="main">с обществом инвалидов</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/065.htm" target="main">СЃ РѕР±С‰РµСЃС‚РІРѕРј РёРЅРІР°Р»РёРґРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -848,7 +848,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/079.htm" target="main">в строительных организациях</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/079.htm" target="main">РІ СЃС‚СЂРѕРёС‚РµР»СЊРЅС‹С… РѕСЂРіР°РЅРёР·Р°С†РёСЏС…</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -857,7 +857,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/081.htm" target="main">страховая схема</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/081.htm" target="main">СЃС‚СЂР°С…РѕРІР°СЏ СЃС…РµРјР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -866,7 +866,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/082.htm" target="main">страховая схема - имущественная</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/082.htm" target="main">СЃС‚СЂР°С…РѕРІР°СЏ СЃС…РµРјР° - РёРјСѓС‰РµСЃС‚РІРµРЅРЅР°СЏ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -875,7 +875,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/083.htm" target="main">использование страховых схем</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/083.htm" target="main">РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ СЃС‚СЂР°С…РѕРІС‹С… СЃС…РµРј</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -884,7 +884,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/087.htm" target="main">использование "однодневки"</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/087.htm" target="main">РёСЃРїРѕР»СЊР·РѕРІР°РЅРёРµ "РѕРґРЅРѕРґРЅРµРІРєРё"</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -894,7 +894,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0086')"><img src="images/c.gif" border="0" name=0086-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0086')">Социальные начисления</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0086')">РЎРѕС†РёР°Р»СЊРЅС‹Рµ РЅР°С‡РёСЃР»РµРЅРёСЏ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -903,7 +903,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/014.htm" target="main">страховые выплаты (схема 1)</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/014.htm" target="main">СЃС‚СЂР°С…РѕРІС‹Рµ РІС‹РїР»Р°С‚С‹ (СЃС…РµРјР° 1)</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -912,7 +912,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/015.htm" target="main">страховые выплаты (схема 2)</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/015.htm" target="main">СЃС‚СЂР°С…РѕРІС‹Рµ РІС‹РїР»Р°С‚С‹ (СЃС…РµРјР° 2)</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -921,7 +921,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/016.htm" target="main">страховые выплаты (схема 3)</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/016.htm" target="main">СЃС‚СЂР°С…РѕРІС‹Рµ РІС‹РїР»Р°С‚С‹ (СЃС…РµРјР° 3)</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -930,7 +930,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/028.htm" target="main">страховые выплаты (схема 4)</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/028.htm" target="main">СЃС‚СЂР°С…РѕРІС‹Рµ РІС‹РїР»Р°С‚С‹ (СЃС…РµРјР° 4)</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -939,7 +939,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/088.htm" target="main">страховые выплаты (схема 5)</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/088.htm" target="main">СЃС‚СЂР°С…РѕРІС‹Рµ РІС‹РїР»Р°С‚С‹ (СЃС…РµРјР° 5)</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -948,7 +948,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/061.htm" target="main">"упрощенка"</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/061.htm" target="main">"СѓРїСЂРѕС‰РµРЅРєР°"</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -957,7 +957,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/080.htm" target="main">схемы по оптимизации</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/080.htm" target="main">СЃС…РµРјС‹ РїРѕ РѕРїС‚РёРјРёР·Р°С†РёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -967,7 +967,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0094')"><img src="images/c.gif" border="0" name=0094-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0094')">Оффшорные схемы</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0094')">РћС„С„С€РѕСЂРЅС‹Рµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -976,7 +976,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/042.htm" target="main">российские оффшорные компании</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/042.htm" target="main">СЂРѕСЃСЃРёР№СЃРєРёРµ РѕС„С„С€РѕСЂРЅС‹Рµ РєРѕРјРїР°РЅРёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -985,7 +985,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/043.htm" target="main">посредническая деятельность</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/043.htm" target="main">РїРѕСЃСЂРµРґРЅРёС‡РµСЃРєР°СЏ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚СЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -994,7 +994,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/044.htm" target="main">кипрский оффшор - интелект</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/044.htm" target="main">РєРёРїСЂСЃРєРёР№ РѕС„С„С€РѕСЂ - РёРЅС‚РµР»РµРєС‚</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1003,7 +1003,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/045.htm" target="main">кипрский оффшор</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/045.htm" target="main">РєРёРїСЂСЃРєРёР№ РѕС„С„С€РѕСЂ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1012,7 +1012,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/053.htm" target="main">оффшорная компания-холдинг</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/053.htm" target="main">РѕС„С„С€РѕСЂРЅР°СЏ РєРѕРјРїР°РЅРёСЏ-С…РѕР»РґРёРЅРі</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1021,7 +1021,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/055.htm" target="main">иностранные оффшоры</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/055.htm" target="main">РёРЅРѕСЃС‚СЂР°РЅРЅС‹Рµ РѕС„С„С€РѕСЂС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1030,7 +1030,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/073.htm" target="main">базовые схемы снижения налогов</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/073.htm" target="main">Р±Р°Р·РѕРІС‹Рµ СЃС…РµРјС‹ СЃРЅРёР¶РµРЅРёСЏ РЅР°Р»РѕРіРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1040,7 +1040,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0102')"><img src="images/c.gif" border="0" name=0102-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0102')">Акционерные схемы</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0102')">РђРєС†РёРѕРЅРµСЂРЅС‹Рµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -1049,7 +1049,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/049.htm" target="main">поглощение акционерного об-тва</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/049.htm" target="main">РїРѕРіР»РѕС‰РµРЅРёРµ Р°РєС†РёРѕРЅРµСЂРЅРѕРіРѕ РѕР±-С‚РІР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1058,7 +1058,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/026.htm" target="main">приобретение ценных бумаг</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/026.htm" target="main">РїСЂРёРѕР±СЂРµС‚РµРЅРёРµ С†РµРЅРЅС‹С… Р±СѓРјР°Рі</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1067,7 +1067,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/002.htm" target="main">схема выкупа акций</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/002.htm" target="main">СЃС…РµРјР° РІС‹РєСѓРїР° Р°РєС†РёР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1076,7 +1076,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/025.htm" target="main">акционеры в кредиторы</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/025.htm" target="main">Р°РєС†РёРѕРЅРµСЂС‹ РІ РєСЂРµРґРёС‚РѕСЂС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1085,7 +1085,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/029.htm" target="main">выплата дивидентов акционеру</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/029.htm" target="main">РІС‹РїР»Р°С‚Р° РґРёРІРёРґРµРЅС‚РѕРІ Р°РєС†РёРѕРЅРµСЂСѓ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1094,7 +1094,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/030.htm" target="main">кредитование через облигации</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/030.htm" target="main">РєСЂРµРґРёС‚РѕРІР°РЅРёРµ С‡РµСЂРµР· РѕР±Р»РёРіР°С†РёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1103,7 +1103,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/071.htm" target="main">обходной маневр</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/071.htm" target="main">РѕР±С…РѕРґРЅРѕР№ РјР°РЅРµРІСЂ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1113,7 +1113,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0110')"><img src="images/c.gif" border="0" name=0110-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0110')">Неналоговые схемы</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0110')">РќРµРЅР°Р»РѕРіРѕРІС‹Рµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -1122,7 +1122,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/091.htm" target="main">внешнеэконом-ская деятельность</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/091.htm" target="main">РІРЅРµС€РЅРµСЌРєРѕРЅРѕРј-СЃРєР°СЏ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚СЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1132,7 +1132,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#c1eccc">
 <td width="22" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0112')"><img src="images/c.gif" border="0" name=0112-nav></a></td>
-<td width="203"><a class=level href="javascript:%20changeNav('0112')">Другие схемы</a></td></tr>
+<td width="203"><a class=level href="javascript:%20changeNav('0112')">Р”СЂСѓРіРёРµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -1141,7 +1141,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/010.htm" target="main">комбинированная схема</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/010.htm" target="main">РєРѕРјР±РёРЅРёСЂРѕРІР°РЅРЅР°СЏ СЃС…РµРјР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1150,7 +1150,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/011.htm" target="main">увеличение уставного капитала банка</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/011.htm" target="main">СѓРІРµР»РёС‡РµРЅРёРµ СѓСЃС‚Р°РІРЅРѕРіРѕ РєР°РїРёС‚Р°Р»Р° Р±Р°РЅРєР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1159,7 +1159,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/012.htm" target="main">хищение средств клиентов банка</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/012.htm" target="main">С…РёС‰РµРЅРёРµ СЃСЂРµРґСЃС‚РІ РєР»РёРµРЅС‚РѕРІ Р±Р°РЅРєР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1168,7 +1168,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/013.htm" target="main">хищение средств гос. компании</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/013.htm" target="main">С…РёС‰РµРЅРёРµ СЃСЂРµРґСЃС‚РІ РіРѕСЃ. РєРѕРјРїР°РЅРёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1177,7 +1177,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/022.htm" target="main">зачет задолженности банку</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/022.htm" target="main">Р·Р°С‡РµС‚ Р·Р°РґРѕР»Р¶РµРЅРЅРѕСЃС‚Рё Р±Р°РЅРєСѓ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1186,7 +1186,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/023.htm" target="main">реструктуризация кредита</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/023.htm" target="main">СЂРµСЃС‚СЂСѓРєС‚СѓСЂРёР·Р°С†РёСЏ РєСЂРµРґРёС‚Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1195,7 +1195,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/024.htm" target="main">переуступка денежных средств</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/024.htm" target="main">РїРµСЂРµСѓСЃС‚СѓРїРєР° РґРµРЅРµР¶РЅС‹С… СЃСЂРµРґСЃС‚РІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1204,7 +1204,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/027.htm" target="main">изменение состава кредиторов</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/027.htm" target="main">РёР·РјРµРЅРµРЅРёРµ СЃРѕСЃС‚Р°РІР° РєСЂРµРґРёС‚РѕСЂРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1213,7 +1213,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/034.htm" target="main">обналичивание чеков через Израиль или Иорданию</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/034.htm" target="main">РѕР±РЅР°Р»РёС‡РёРІР°РЅРёРµ С‡РµРєРѕРІ С‡РµСЂРµР· РР·СЂР°РёР»СЊ РёР»Рё РРѕСЂРґР°РЅРёСЋ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1222,7 +1222,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/039.htm" target="main">перевод денег от учредителя к фирме</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/039.htm" target="main">РїРµСЂРµРІРѕРґ РґРµРЅРµРі РѕС‚ СѓС‡СЂРµРґРёС‚РµР»СЏ Рє С„РёСЂРјРµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1231,7 +1231,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/046.htm" target="main">схема АО "АвтоВАЗ"</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/046.htm" target="main">СЃС…РµРјР° РђРћ "РђРІС‚РѕР’РђР—"</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1240,7 +1240,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/047.htm" target="main">договор толлинга</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/047.htm" target="main">РґРѕРіРѕРІРѕСЂ С‚РѕР»Р»РёРЅРіР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1249,7 +1249,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/050.htm" target="main">товарообменные операции</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/050.htm" target="main">С‚РѕРІР°СЂРѕРѕР±РјРµРЅРЅС‹Рµ РѕРїРµСЂР°С†РёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1258,7 +1258,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/052.htm" target="main">отдельные налоговые схемы</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/052.htm" target="main">РѕС‚РґРµР»СЊРЅС‹Рµ РЅР°Р»РѕРіРѕРІС‹Рµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1267,7 +1267,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/054.htm" target="main">строительство и ремонт</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/054.htm" target="main">СЃС‚СЂРѕРёС‚РµР»СЊСЃС‚РІРѕ Рё СЂРµРјРѕРЅС‚</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1276,7 +1276,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/056.htm" target="main">нефтяные компании</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/056.htm" target="main">РЅРµС„С‚СЏРЅС‹Рµ РєРѕРјРїР°РЅРёРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1285,7 +1285,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/057.htm" target="main">договор комиссии и договор поручения</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/057.htm" target="main">РґРѕРіРѕРІРѕСЂ РєРѕРјРёСЃСЃРёРё Рё РґРѕРіРѕРІРѕСЂ РїРѕСЂСѓС‡РµРЅРёСЏ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1294,7 +1294,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/059.htm" target="main">низконалоговая компания в торговле</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/059.htm" target="main">РЅРёР·РєРѕРЅР°Р»РѕРіРѕРІР°СЏ РєРѕРјРїР°РЅРёСЏ РІ С‚РѕСЂРіРѕРІР»Рµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1303,7 +1303,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/060.htm" target="main">совместная деятельность</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/060.htm" target="main">СЃРѕРІРјРµСЃС‚РЅР°СЏ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚СЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1312,7 +1312,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/062.htm" target="main">низконалоговая компания в торговле 2</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/062.htm" target="main">РЅРёР·РєРѕРЅР°Р»РѕРіРѕРІР°СЏ РєРѕРјРїР°РЅРёСЏ РІ С‚РѕСЂРіРѕРІР»Рµ 2</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1321,7 +1321,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/063.htm" target="main">оптимизация ЕСН</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/063.htm" target="main">РѕРїС‚РёРјРёР·Р°С†РёСЏ Р•РЎРќ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1330,7 +1330,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/064.htm" target="main">вексель вычету не помеха</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/064.htm" target="main">РІРµРєСЃРµР»СЊ РІС‹С‡РµС‚Сѓ РЅРµ РїРѕРјРµС…Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1339,7 +1339,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/067.htm" target="main">маркетинговые услуги</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/067.htm" target="main">РјР°СЂРєРµС‚РёРЅРіРѕРІС‹Рµ СѓСЃР»СѓРіРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1348,7 +1348,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/068.htm" target="main">договор поручения 2</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/068.htm" target="main">РґРѕРіРѕРІРѕСЂ РїРѕСЂСѓС‡РµРЅРёСЏ 2</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1357,7 +1357,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/069.htm" target="main">неплатежеспособные банки</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/069.htm" target="main">РЅРµРїР»Р°С‚РµР¶РµСЃРїРѕСЃРѕР±РЅС‹Рµ Р±Р°РЅРєРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1366,7 +1366,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/077.htm" target="main">фармацевтическая деятельность</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/077.htm" target="main">С„Р°СЂРјР°С†РµРІС‚РёС‡РµСЃРєР°СЏ РґРµСЏС‚РµР»СЊРЅРѕСЃС‚СЊ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1375,7 +1375,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/078.htm" target="main">линия: поставка и реализация</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/078.htm" target="main">Р»РёРЅРёСЏ: РїРѕСЃС‚Р°РІРєР° Рё СЂРµР°Р»РёР·Р°С†РёСЏ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1384,7 +1384,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/084.htm" target="main">варианты ликвидации предприятий</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/084.htm" target="main">РІР°СЂРёР°РЅС‚С‹ Р»РёРєРІРёРґР°С†РёРё РїСЂРµРґРїСЂРёСЏС‚РёР№</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1393,7 +1393,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/086.htm" target="main">криминальные схемы</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/086.htm" target="main">РєСЂРёРјРёРЅР°Р»СЊРЅС‹Рµ СЃС…РµРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1402,7 +1402,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/089.htm" target="main">система налогов у юридического лица</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/089.htm" target="main">СЃРёСЃС‚РµРјР° РЅР°Р»РѕРіРѕРІ Сѓ СЋСЂРёРґРёС‡РµСЃРєРѕРіРѕ Р»РёС†Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1411,7 +1411,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/090.htm" target="main">с помощью организаций-однодневок</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/090.htm" target="main">СЃ РїРѕРјРѕС‰СЊСЋ РѕСЂРіР°РЅРёР·Р°С†РёР№-РѕРґРЅРѕРґРЅРµРІРѕРє</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1420,7 +1420,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="39" height="20"></td>
-<td width="203"><a class=level href="../nalogi/grey/032.htm" target="main">хищение госсредств полученных под целевые программы</a></td></tr>
+<td width="203"><a class=level href="../nalogi/grey/032.htm" target="main">С…РёС‰РµРЅРёРµ РіРѕСЃСЃСЂРµРґСЃС‚РІ РїРѕР»СѓС‡РµРЅРЅС‹С… РїРѕРґ С†РµР»РµРІС‹Рµ РїСЂРѕРіСЂР°РјРјС‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1430,7 +1430,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#2E8B57">
 <td width="8" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0138')"><img src="images/c.gif" border="0" name="0138-nav"></a></td>
-<td width="217"><a class=toplevel href="javascript:%20changeNav('0138')">Библиотека</a></td></tr>
+<td width="217"><a class=toplevel href="javascript:%20changeNav('0138')">Р‘РёР±Р»РёРѕС‚РµРєР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -1439,7 +1439,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../bibliot/001/001.htm" target="main">Банковские услуги предприятиям</a></td></tr>
+<td width="215"><a class=level href="../bibliot/001/001.htm" target="main">Р‘Р°РЅРєРѕРІСЃРєРёРµ СѓСЃР»СѓРіРё РїСЂРµРґРїСЂРёСЏС‚РёСЏРј</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1448,7 +1448,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../bibliot/002/001.htm" target="main">Учасники вексельного оборота</a></td></tr>
+<td width="215"><a class=level href="../bibliot/002/001.htm" target="main">РЈС‡Р°СЃРЅРёРєРё РІРµРєСЃРµР»СЊРЅРѕРіРѕ РѕР±РѕСЂРѕС‚Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1457,7 +1457,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../bibliot/003/000.htm" target="main">Учебник по менеджменту</a></td></tr>
+<td width="215"><a class=level href="../bibliot/003/000.htm" target="main">РЈС‡РµР±РЅРёРє РїРѕ РјРµРЅРµРґР¶РјРµРЅС‚Сѓ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1466,7 +1466,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../bibliot/files/000.htm" target="main">Загрузить материалы</a></td></tr>
+<td width="215"><a class=level href="../bibliot/files/000.htm" target="main">Р—Р°РіСЂСѓР·РёС‚СЊ РјР°С‚РµСЂРёР°Р»С‹</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1476,7 +1476,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#2E8B57">
 <td width="8" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0143')"><img src="images/c.gif" border="0" name="0143-nav"></a></td>
-<td width="217"><a class=toplevel href="javascript:%20changeNav('0143')">Законодавство України</a></td></tr>
+<td width="217"><a class=toplevel href="javascript:%20changeNav('0143')">Р—Р°РєРѕРЅРѕРґР°РІСЃС‚РІРѕ РЈРєСЂР°С—РЅРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -1485,7 +1485,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../zakonodav/kodex/000.htm" target="main">Кодекси України</a></td></tr>
+<td width="215"><a class=level href="../zakonodav/kodex/000.htm" target="main">РљРѕРґРµРєСЃРё РЈРєСЂР°С—РЅРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1494,7 +1494,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../zakonodav/zakon/000.htm" target="main">Закони України</a></td></tr>
+<td width="215"><a class=level href="../zakonodav/zakon/000.htm" target="main">Р—Р°РєРѕРЅРё РЈРєСЂР°С—РЅРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1503,7 +1503,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../zakonodav/ukaz/000.htm" target="main">Укази президента</a></td></tr>
+<td width="215"><a class=level href="../zakonodav/ukaz/000.htm" target="main">РЈРєР°Р·Рё РїСЂРµР·РёРґРµРЅС‚Р°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1512,7 +1512,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../zakonodav/postan/000.htm" target="main">Постанови КМУ</a></td></tr>
+<td width="215"><a class=level href="../zakonodav/postan/000.htm" target="main">РџРѕСЃС‚Р°РЅРѕРІРё РљРњРЈ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1521,7 +1521,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../zakonodav/article/000.htm" target="main">Статті та коментарі</a></td></tr>
+<td width="215"><a class=level href="../zakonodav/article/000.htm" target="main">РЎС‚Р°С‚С‚С– С‚Р° РєРѕРјРµРЅС‚Р°СЂС–</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1530,7 +1530,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../zakonodav/other/000.htm" target="main">Інше</a></td></tr>
+<td width="215"><a class=level href="../zakonodav/other/000.htm" target="main">Р†РЅС€Рµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1540,7 +1540,7 @@ if(a) a.src = "images/e.gif"}}
 <tr bgColor="#2E8B57">
 <td width="8" height="20"></td>
 <td width="17" class="middle"><a href="javascript:%20changeNav('0150')"><img src="images/c.gif" border="0" name="0150-nav"></a></td>
-<td width="217"><a class=toplevel href="javascript:%20changeNav('0150')">Прочее</a></td></tr>
+<td width="217"><a class=toplevel href="javascript:%20changeNav('0150')">РџСЂРѕС‡РµРµ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="3" height="1"></td></tr>
 </table>
@@ -1549,7 +1549,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../other/dogovora/000.htm" target="main">Образцы договоров</a></td></tr>
+<td width="215"><a class=level href="../other/dogovora/000.htm" target="main">РћР±СЂР°Р·С†С‹ РґРѕРіРѕРІРѕСЂРѕРІ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1558,7 +1558,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../other/dogovora/002.htm" target="main">Идеальный договор</a></td></tr>
+<td width="215"><a class=level href="../other/dogovora/002.htm" target="main">РРґРµР°Р»СЊРЅС‹Р№ РґРѕРіРѕРІРѕСЂ</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1567,7 +1567,7 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../other/dogovora/001.htm" target="main">Прохождение договора</a></td></tr>
+<td width="215"><a class=level href="../other/dogovora/001.htm" target="main">РџСЂРѕС…РѕР¶РґРµРЅРёРµ РґРѕРіРѕРІРѕСЂР°</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
@@ -1576,14 +1576,14 @@ if(a) a.src = "images/e.gif"}}
 <table cellSpacing="0" cellPadding="0" width="242" bgColor="#ffffff" border="0">
 <tr bgColor="#c1eccc">
 <td width="27" height="20"></td>
-<td width="215"><a class=level href="../other/001.htm" target="main">Интересные ссылки</a></td></tr>
+<td width="215"><a class=level href="../other/001.htm" target="main">РРЅС‚РµСЂРµСЃРЅС‹Рµ СЃСЃС‹Р»РєРё</a></td></tr>
 <tr bgColor="#ffffff">
 <td colSpan="2" height="1"></td></tr>
 </table>
 
 
 
-<!----- Поиск ----->
+<!----- РџРѕРёСЃРє ----->
 <div style="display: none"></div></div>
 <table cellSpacing="0" cellPadding="0" width="242" border="0">
 <tr><td height="70" bgColor="#2E8B57" align=middle> 
@@ -1598,36 +1598,36 @@ BORDER-BOTTOM: #046533 1px solid; BACKGROUND-COLOR: #dbeaea; FONT-SIZE: 11px;" s
 <td align="left">
 <button style="BORDER-RIGHT: #2E8B57 0px solid; BORDER-TOP: #2E8B57 0px solid;
 FONT-SIZE: 9pt; BORDER-LEFT: #2E8B57 0px solid; BORDER-BOTTOM: #2E8B57 0px solid;
-BACKGROUND-COLOR: #2E8B57" type="submit" value="найти">
+BACKGROUND-COLOR: #2E8B57" type="submit" value="РЅР°Р№С‚Рё">
 <img src="../index/images/icon_search.gif"></button></td>
 </tr></table>
 </td></tr></table>
-<!----- /Поиск ----->
+<!----- /РџРѕРёСЃРє ----->
 
 <br>
-<div class="toplevel" style="text-align: center">Счетчики и реклама</div>
+<div class="toplevel" style="text-align: center">РЎС‡РµС‚С‡РёРєРё Рё СЂРµРєР»Р°РјР°</div>
 <table cellSpacing="0" cellPadding="0" width="242" border="0">
 <tr>
 <td width="50%" style="text-align: center">
-<!----- Счетчик ----->
+<!----- РЎС‡РµС‚С‡РёРє ----->
 <br><!--#include virtual=dencnt.cgi?-->
-<!----- /Счетчик ----->
+<!----- /РЎС‡РµС‚С‡РёРє ----->
 </td>
 <td width="50%" style="text-align: center">
-<!----- Ссылка на каталог ZABOR.COM ----->
+<!----- РЎСЃС‹Р»РєР° РЅР° РєР°С‚Р°Р»РѕРі ZABOR.COM ----->
 <br><A HREF="http://www.zabor.com/" target=_top>
-<IMG SRC="images/zabor.gif" BORDER=0 ALT="Каталог ЗАБОР" width=88 height=31></A>
-<!----- /Ссылка на каталог ZABOR.COM ----->
+<IMG SRC="images/zabor.gif" BORDER=0 ALT="РљР°С‚Р°Р»РѕРі Р—РђР‘РћР " width=88 height=31></A>
+<!----- /РЎСЃС‹Р»РєР° РЅР° РєР°С‚Р°Р»РѕРі ZABOR.COM ----->
 </td>
 </tr>
 <tr>
 <td width="50%" style="text-align: center">
-<!----- Ссылка на каталог Velikobritania.Info ----->
+<!----- РЎСЃС‹Р»РєР° РЅР° РєР°С‚Р°Р»РѕРі Velikobritania.Info ----->
 <br><a href="http://www.velikobritania.info/">
-<img alt="velikobritania.info: Информация и помощь по трудоустройству,
-получение визы, юридические услуги, иммиграция, обучение, работа"
+<img alt="velikobritania.info: РРЅС„РѕСЂРјР°С†РёСЏ Рё РїРѕРјРѕС‰СЊ РїРѕ С‚СЂСѓРґРѕСѓСЃС‚СЂРѕР№СЃС‚РІСѓ,
+РїРѕР»СѓС‡РµРЅРёРµ РІРёР·С‹, СЋСЂРёРґРёС‡РµСЃРєРёРµ СѓСЃР»СѓРіРё, РёРјРјРёРіСЂР°С†РёСЏ, РѕР±СѓС‡РµРЅРёРµ, СЂР°Р±РѕС‚Р°"
 border=0 height=31  width=88 src="images/bn88_1.gif"></a>
-<!----- /Ссылка на каталог Velikobritania.Info ----->
+<!----- /РЎСЃС‹Р»РєР° РЅР° РєР°С‚Р°Р»РѕРі Velikobritania.Info ----->
 </td>
 <td width="50%" style="text-align: center">
 
