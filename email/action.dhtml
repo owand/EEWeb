@@ -1,0 +1,6 @@
+<!--#RECIPIENT=owand@nm.ru-->
+<!--#URL=/email/ok.htm-->
+<!--#URLERR=/email/error.htm-->
+<!--#REQUIRED=realname,email,message-->
+<!--#SORT=realname,email,subject,message-->
+<!--#include virtual=mailform.cgi-->

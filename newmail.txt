@@ -1,0 +1,25 @@
+Ваши персональные данные            
+ 
+Ваш логин: owand в домене nm.ru 
+Ваш почтовый адрес: owand@nm.ru 
+Ваши персональные странички: http://www.owand.nm.ru
+http://owand.nm.ru 
+ 
+POP3-сервер: pop.newmail.ru
+логин: owand.nm.ru
+пароль: Ваш пароль 
+ 
+SMTP-сервер: smtp.newmail.ru
+логин: owand.nm.ru
+пароль: Ваш пароль
+Внимание! Для доступа к SMTP нужно включить аутентификацию 
+ 
+FTP-сервер: ftp://owand.nm.ru:Ваш пароль@ftp.newmail.ru 
+
+
+D:\My Web\economic\finans\analis
+D:\My Web\economic\find
+D:\My Web\economic\index
+D:\My Web\economic\menu
+D:\My Web\economic\other
+D:\My Web\economic\bibliot\003
