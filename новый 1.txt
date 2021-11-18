@@ -1,0 +1,1609 @@
+
+
+  <table cellSpacing="0" cellPadding="0" width="242">
+    <tr>
+      <td width="8" height="20"></td>
+      <td width="17" class="middle"><a href="javascript:%20changeNav('0027')"><img src="images/c.gif" name="0027-nav"
+            alt="img"></a></td>
+      <td width="217"><a class=toplevel href="javascript:%20changeNav('0027')">Налогообложение</a></td>
+    </tr>
+    <tr>
+      <td colSpan="3" height="1"></td>
+    </tr>
+  </table>
+
+  <div id=0027 style="display: none">
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../nalogi/filosof/001.htm" target="main">Философия</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../nalogi/filosof/002.htm" target="main">Жаргонный словарь</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../nalogi/filosof/011.htm" target="main">Отдельные налоговые
+            термины</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../nalogi/filosof/012.htm" target="main">Принципы оптимизации</a>
+        </td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../nalogi/filosof/005.htm" target="main">Виды оптимизации</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0030 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0031')"><img src="images/c.gif" border="0"
+              name=0031-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0031')">Интересное о налогах</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0031 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/filosof/004.htm" target="main">Истории о налогах</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0032 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/filosof/006.htm" target="main">Анекдоты</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0033 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/filosof/003.htm" target="main">Афоризмы</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0034 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/filosof/007.htm" target="main">Интересные факты</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0035 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/filosof/008.htm" target="main">Виды налогов</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0036 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/filosof/009.htm" target="main">Это интересно</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0037 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/filosof/010.htm" target="main">Художественная
+              литература</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0038 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0039')"><img src="images/c.gif" border="0"
+              name=0039-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0039')">Виды налогов</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0039 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/protax/001.htm" target="main">Налог на прибыль</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0040 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/protax/002.htm" target="main">Налог на добавленную
+              стоимость</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0041 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/protax/003.htm" target="main">Подоходный налог</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0042 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/protax/004.htm" target="main">Оффшоры</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0043 style="display: none"></div>
+    </div>
+  </div>
+
+  <table cellSpacing="0" cellPadding="0" width="242">
+    <tr>
+      <td width="8" height="20"></td>
+      <td width="17" class="middle"><a href="javascript:%20changeNav('0044')"><img src="images/c.gif" name="0044-nav"
+            alt="img"></a></td>
+      <td width="217"><a class=toplevel href="javascript:%20changeNav('0044')">Серые схемы</a></td>
+    </tr>
+    <tr>
+      <td colSpan="3" height="1"></td>
+    </tr>
+  </table>
+
+  <div id=0044 style="display: none">
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../nalogi/grey/000.htm" target="main">Серые схемы</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0045 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0046')">
+            <img src="images/c.gif" border="0" name=0046-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0046')">Схемы "обналичивания"</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0046 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/007.htm" target="main">с легализацией
+              продукции</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0047 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/008.htm" target="main">с конвертацией</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0048 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/009.htm" target="main">с импортом товара</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0049 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/017.htm" target="main">с договором на выполнение
+              работ</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0050 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/018.htm" target="main">через получение
+              кредита</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0051 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/019.htm" target="main">с использованием ссуд</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0052 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/020.htm" target="main">с расторжением
+              контракта</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0053 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/021.htm" target="main">с общественной
+              организацией</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0054 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0055')"><img src="images/c.gif" border="0"
+              name=0055-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0055')">Схемы "отмывания"</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0055 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/031.htm" target="main">с помощью фальшивых
+              авизо</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0056 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/072.htm" target="main">капиталы "серых"
+              бизнесменов</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0057 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0058')"><img src="images/c.gif" border="0"
+              name=0058-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0058')">Схемы "отката"</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0058 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/003.htm" target="main">перефактурирование</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0059 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0060')"><img src="images/c.gif" border="0"
+              name=0060-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0060')">Международные</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0060 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/001.htm" target="main">перевод денег за
+              рубеж</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0061 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/004.htm" target="main">игорный бизнес</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0062 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/005.htm" target="main">отчуждение активов</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0063 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0064')"><img src="images/c.gif" border="0"
+              name=0064-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0064')">Оптимизация НДС</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0064 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/006.htm" target="main">лжеэкспорт</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0065 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/033.htm" target="main">возмещение НДС</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0066 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/035.htm" target="main">переуступка экспортной
+              выручки</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0067 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/036.htm" target="main">экспортно-импортная
+              схема</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0068 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/037.htm" target="main">экспортная схема (вариант
+              1)</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0069 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/038.htm" target="main">экспортная схема (вариант
+              2)</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0070 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/051.htm" target="main">с использованием
+              векселей</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0071 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/066.htm" target="main">с обществом инвалидов</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0072 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/070.htm" target="main">с использованием
+              лизинга</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0073 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/076.htm" target="main">возмещения НДС от
+              налоговиков</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0074 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/085.htm" target="main">как законно
+              минимизировать НДС</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0075 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0076')"><img src="images/c.gif" border="0"
+              name=0076-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0076')">Оптимизация налога на прибыль</a>
+        </td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0076 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/040.htm" target="main">способы сохранения
+              прибыли</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0077 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/041.htm" target="main">с давальческим сырьем</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0078 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/048.htm" target="main">с низконалоговой
+              компанией</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0079 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/065.htm" target="main">с обществом инвалидов</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0080 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/079.htm" target="main">в строительных
+              организациях</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0081 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/081.htm" target="main">страховая схема</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0082 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/082.htm" target="main">страховая схема -
+              имущественная</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0083 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/083.htm" target="main">использование страховых
+              схем</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0084 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/087.htm" target="main">использование
+              "однодневки"</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0085 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0086')"><img src="images/c.gif" border="0"
+              name=0086-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0086')">Социальные начисления</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0086 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/014.htm" target="main">страховые выплаты (схема
+              1)</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0087 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/015.htm" target="main">страховые выплаты (схема
+              2)</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0088 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/016.htm" target="main">страховые выплаты (схема
+              3)</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0089 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/028.htm" target="main">страховые выплаты (схема
+              4)</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0090 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/088.htm" target="main">страховые выплаты (схема
+              5)</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0091 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/061.htm" target="main">"упрощенка"</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0092 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/080.htm" target="main">схемы по оптимизации</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0093 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0094')"><img src="images/c.gif" border="0"
+              name=0094-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0094')">Оффшорные схемы</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0094 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/042.htm" target="main">российские оффшорные
+              компании</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0095 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/043.htm" target="main">посредническая
+              деятельность</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0096 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/044.htm" target="main">кипрский оффшор -
+              интелект</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0097 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/045.htm" target="main">кипрский оффшор</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0098 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/053.htm" target="main">оффшорная
+              компания-холдинг</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0099 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/055.htm" target="main">иностранные оффшоры</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0100 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/073.htm" target="main">базовые схемы снижения
+              налогов</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0101 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0102')"><img src="images/c.gif" border="0"
+              name=0102-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0102')">Акционерные схемы</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0102 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/049.htm" target="main">поглощение акционерного
+              об-тва</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0103 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/026.htm" target="main">приобретение ценных
+              бумаг</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0104 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/002.htm" target="main">схема выкупа акций</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0105 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/025.htm" target="main">акционеры в кредиторы</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0106 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/029.htm" target="main">выплата дивидентов
+              акционеру</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0107 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/030.htm" target="main">кредитование через
+              облигации</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0108 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/071.htm" target="main">обходной маневр</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0109 style="display: none"></div>
+    </div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0110')"><img src="images/c.gif" border="0"
+              name=0110-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0110')">Неналоговые схемы</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0110 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/091.htm" target="main">внешнеэконом-ская
+              деятельность</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0111 style="display: none"></div>
+    </div>
+
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="22" height="20"></td>
+        <td width="17" class="middle"><a href="javascript:%20changeNav('0112')"><img src="images/c.gif" border="0"
+              name=0112-nav alt="img"></a></td>
+        <td width="203"><a class=level href="javascript:%20changeNav('0112')">Другие схемы</a></td>
+      </tr>
+      <tr>
+        <td colSpan="3" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0112 style="display: none">
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/010.htm" target="main">комбинированная схема</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0113 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/011.htm" target="main">увеличение уставного
+              капитала банка</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0114 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/012.htm" target="main">хищение средств клиентов
+              банка</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0115 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/013.htm" target="main">хищение средств гос.
+              компании</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0116 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/022.htm" target="main">зачет задолженности
+              банку</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0117 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/023.htm" target="main">реструктуризация
+              кредита</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0118 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/024.htm" target="main">переуступка денежных
+              средств</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0112 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/027.htm" target="main">изменение состава
+              кредиторов</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0113 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/034.htm" target="main">обналичивание чеков через
+              Израиль или Иорданию</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0114 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/039.htm" target="main">перевод денег от
+              учредителя к фирме</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0115 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/046.htm" target="main">схема АО "АвтоВАЗ"</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0116 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/047.htm" target="main">договор толлинга</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0117 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/050.htm" target="main">товарообменные
+              операции</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0118 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/052.htm" target="main">отдельные налоговые
+              схемы</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0119 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/054.htm" target="main">строительство и
+              ремонт</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0120 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/056.htm" target="main">нефтяные компании</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0121 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/057.htm" target="main">договор комиссии и
+              договор поручения</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0122 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/059.htm" target="main">низконалоговая компания в
+              торговле</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0123 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/060.htm" target="main">совместная
+              деятельность</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0124 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/062.htm" target="main">низконалоговая компания в
+              торговле 2</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0125 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/063.htm" target="main">оптимизация ЕСН</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0126 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/064.htm" target="main">вексель вычету не
+              помеха</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0127 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/067.htm" target="main">маркетинговые услуги</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0128 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/068.htm" target="main">договор поручения 2</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0129 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/069.htm" target="main">неплатежеспособные
+              банки</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0130 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/077.htm" target="main">фармацевтическая
+              деятельность</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0131 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/078.htm" target="main">линия: поставка и
+              реализация</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0132 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/084.htm" target="main">варианты ликвидации
+              предприятий</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0133 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/086.htm" target="main">криминальные схемы</a>
+          </td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0134 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/089.htm" target="main">система налогов у
+              юридического лица</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0135 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/090.htm" target="main">с помощью
+              организаций-однодневок</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0136 style="display: none"></div>
+      <table cellSpacing="0" cellPadding="0" width="242">
+        <tr>
+          <td width="39" height="20"></td>
+          <td width="203"><a class=level href="../nalogi/grey/032.htm" target="main">хищение госсредств
+              полученных под целевые программы</a></td>
+        </tr>
+        <tr>
+          <td colSpan="2" height="1"></td>
+        </tr>
+      </table>
+
+      <div id=0137 style="display: none"></div>
+    </div>
+  </div>
+
+  <table cellSpacing="0" cellPadding="0" width="242">
+    <tr>
+      <td width="8" height="20"></td>
+      <td width="17" class="middle"><a href="javascript:%20changeNav('0138')"><img src="images/c.gif" name="0138-nav"
+            alt="img"></a></td>
+      <td width="217"><a class=toplevel href="javascript:%20changeNav('0138')">Библиотека</a></td>
+    </tr>
+    <tr>
+      <td colSpan="3" height="1"></td>
+    </tr>
+  </table>
+
+  <div id=0138 style="display: none">
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../bibliot/001/001.htm" target="main">Банковские услуги
+            предприятиям</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0139 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../bibliot/002/001.htm" target="main">Учасники вексельного
+            оборота</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0140 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../bibliot/003/000.htm" target="main">Учебник по менеджменту</a>
+        </td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0141 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../bibliot/files/000.htm" target="main">Загрузить материалы</a>
+        </td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+  </div>
+
+  <table cellSpacing="0" cellPadding="0" width="242">
+    <tr>
+      <td width="8" height="20"></td>
+      <td width="17" class="middle"><a href="javascript:%20changeNav('0143')"><img src="images/c.gif" name="0143-nav"
+            alt="img"></a></td>
+      <td width="217"><a class=toplevel href="javascript:%20changeNav('0143')">Законодавство України</a></td>
+    </tr>
+    <tr>
+      <td colSpan="3" height="1"></td>
+    </tr>
+  </table>
+
+  <div id=0143 style="display: none">
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../zakonodav/kodex/000.htm" target="main">Кодекси України</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0144 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../zakonodav/zakon/000.htm" target="main">Закони України</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0145 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../zakonodav/ukaz/000.htm" target="main">Укази президента</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0146 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../zakonodav/postan/000.htm" target="main">Постанови КМУ</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0147 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../zakonodav/article/000.htm" target="main">Статті та коментарі</a>
+        </td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0148 style="display: none"></div>
+    <table cellSpacing="0" cellPadding="0" width="242">
+      <tr>
+        <td width="27" height="20"></td>
+        <td width="215"><a class=level href="../zakonodav/other/000.htm" target="main">Інше</a></td>
+      </tr>
+      <tr>
+        <td colSpan="2" height="1"></td>
+      </tr>
+    </table>
+
+    <div id=0149 style="display: none"></div>
+  </div>
