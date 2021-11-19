@@ -22,7 +22,7 @@ body {
 body {
     color: #333;
     font: 1em 'Open Sans', sans-serif;
-    background-color: #2D353E;
+    background-color: #edf1f5;
 }
 
 
@@ -98,8 +98,8 @@ h2 {
     line-height: 26px;
 }
 
-a {
+/* a {
     color: #006b05;
     text-decoration: none;
-}
+} */
 
