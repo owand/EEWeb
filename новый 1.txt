@@ -13,15 +13,7 @@
   </table>
 
   <div id=0027 style="display: none">
-    <table cellSpacing="0" cellPadding="0" width="242">
-      <tr>
-        <td width="27" height="20"></td>
-        <td width="215"><a class=level href="../nalogi/filosof/001.htm" target='main-content'>Философия</a></td>
-      </tr>
-      <tr>
-        <td colSpan="2" height="1"></td>
-      </tr>
-    </table>
+
 
     <div style="display: none"></div>
     <table cellSpacing="0" cellPadding="0" width="242">
