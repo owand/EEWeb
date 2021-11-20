@@ -1,17 +1,6 @@
 
 
 
-      <div id=0129 style="display: none"></div>
-      <table cellSpacing="0" cellPadding="0" width="242">
-        <tr>
-          <td width="39" height="20"></td>
-          <td width="203"><a class=level href="../nalogi/grey/069.htm" target='main-content'>неплатежеспособные
-              банки</a></td>
-        </tr>
-        <tr>
-          <td colSpan="2" height="1"></td>
-        </tr>
-      </table>
 
       <div id=0130 style="display: none"></div>
       <table cellSpacing="0" cellPadding="0" width="242">
