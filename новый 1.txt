@@ -1,54 +1,5 @@
 
-    <table cellSpacing="0" cellPadding="0" width="242">
-      <tr>
-        <td width="22" height="20"></td>
-        <td width="17" class="middle"><a href="javascript:%20changeNav('0110')"><img src="images/c.gif" border="0"
-              name=0110-nav alt="img"></a></td>
-        <td width="203"><a class=level href="javascript:%20changeNav('0110')">Неналоговые схемы</a></td>
-      </tr>
-      <tr>
-        <td colSpan="3" height="1"></td>
-      </tr>
-    </table>
 
-    <div id=0110 style="display: none">
-      <table cellSpacing="0" cellPadding="0" width="242">
-        <tr>
-          <td width="39" height="20"></td>
-          <td width="203"><a class=level href="../nalogi/grey/091.htm" target='main-content'>внешнеэконом-ская
-              деятельность</a></td>
-        </tr>
-        <tr>
-          <td colSpan="2" height="1"></td>
-        </tr>
-      </table>
-
-      <div id=0111 style="display: none"></div>
-    </div>
-
-    <table cellSpacing="0" cellPadding="0" width="242">
-      <tr>
-        <td width="22" height="20"></td>
-        <td width="17" class="middle"><a href="javascript:%20changeNav('0112')"><img src="images/c.gif" border="0"
-              name=0112-nav alt="img"></a></td>
-        <td width="203"><a class=level href="javascript:%20changeNav('0112')">Другие схемы</a></td>
-      </tr>
-      <tr>
-        <td colSpan="3" height="1"></td>
-      </tr>
-    </table>
-
-    <div id=0112 style="display: none">
-      <table cellSpacing="0" cellPadding="0" width="242">
-        <tr>
-          <td width="39" height="20"></td>
-          <td width="203"><a class=level href="../nalogi/grey/010.htm" target='main-content'>комбинированная схема</a>
-          </td>
-        </tr>
-        <tr>
-          <td colSpan="2" height="1"></td>
-        </tr>
-      </table>
 
       <div id=0113 style="display: none"></div>
       <table cellSpacing="0" cellPadding="0" width="242">
