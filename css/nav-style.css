@@ -84,13 +84,7 @@ video {
   margin: 0;
   padding: 0;
   border: 0;
-  font: inherit;
-  font-size: 100%;
   vertical-align: baseline;
-}
-
-html {
-  line-height: 1;
 }
 
 ol,
@@ -146,16 +140,13 @@ summary {
 body {
   font: 1em 'Open Sans', sans-serif;
   overflow: hidden;
-  background-color: #ffff;
+  background-color: #2D353E;
 }
 
 /* заголовок */
-#topbar {
-  -moz-user-select: -moz-none;
-  -ms-user-select: none;
-  -webkit-user-select: none;
+.topbar {
   user-select: none;
-  background: #006b05;
+  background: #515c6b;
   color: #ffff;
   font-size: 20px;
   height: 50px;
