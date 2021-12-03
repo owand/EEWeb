@@ -149,6 +149,7 @@ a, a:link {
    outline: none;
    color: green;
    text-decoration: none;
+   font-size: 0.9em;
 }
 
 /* Цвет посещенных ссылок */
@@ -165,7 +166,7 @@ a:focus, a:hover {
 /* Цвет активной ссылки */
 a:active {
    color: red;
-   font-size: 20px;
+   font-size: 1em;
 }
 
 /* заголовок */
@@ -173,7 +174,7 @@ a:active {
    user-select: none;
    background: #515c6b;
    color: #ffff;
-   font-size: 20px;
+   font-size: 1.25em;
    height: 50px;
    line-height: 50px;
    position: fixed;
@@ -258,10 +259,11 @@ a:active {
    position: relative;
    display: block;
    /* высота строки категории */
-   line-height: 60px;
+   line-height: 50px;
    text-transform: uppercase;
    padding: 0 20px;
    cursor: pointer;
+   font-size: 1em;
 }
 
 .category .category-label:after {
