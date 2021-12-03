@@ -143,6 +143,24 @@ body {
   background-color: #2D353E;
 }
 
+a {
+    color: #006b05;
+    text-decoration: none;
+}
+
+   a:link {
+    color: #0000d0; /* Цвет ссылок */
+   }
+
+   /* Цвет посещенных ссылок */
+   a:visited {
+    color: #006b05; 
+   } 
+  
+   a:active {
+    color: #f00; /* Цвет активной ссылки */ 
+   } 
+
 /* заголовок */
 .topbar {
   user-select: none;
@@ -272,7 +290,3 @@ body {
   cursor: pointer;
 }
 
-a {
-    color: #006b05;
-    text-decoration: none;
-}
