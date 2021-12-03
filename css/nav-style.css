@@ -237,6 +237,19 @@ a:active {
    padding: 0px 0px 50px 0px;
 }
 
+#main-content {
+   overflow-x: auto;
+   overflow-y: auto;
+   /*  ширна элемента */
+   width: 100%;
+   /* фиксируем и выставляем высоту элемента на максимум */
+   margin: 0px 0px 0px 0px;
+   height: 100%;
+   /* внутренние отступы */
+   padding: 0px 0px 0px 0px;
+
+}
+
 /* область содержания, когда меню открыто */
 #sidebar-check:checked~#main {
    transform: translate3d(320px, 0, 0);
