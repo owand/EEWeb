@@ -5,6 +5,11 @@
   box-sizing: border-box;
 }
 
+.wrapper {
+min-height: 100%;
+overflow: hidden;
+}
+
 /**
  * Максимальная высота базового контейнера
  */
@@ -114,6 +119,7 @@ h2 {
   font-size: 26px;
   line-height: 26px;
 }
+
 
 /* a {
     color: #006b05;
