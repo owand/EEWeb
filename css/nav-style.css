@@ -198,7 +198,8 @@ a:active {
 /* Переключаемая боковая панель навигациивыдвигающаяся по клику слева */
 #sidebar {
    color: #fff;
-   overflow: auto;
+   overflow-y: auto;
+   overflow-x: hidden;
    /*  ширна элемента */
    width: 320px;
    min-width: 320px;
@@ -261,7 +262,7 @@ a:active {
    /* высота строки категории */
    line-height: 50px;
    text-transform: uppercase;
-   padding: 0 20px;
+   padding: 0 10px;
    cursor: pointer;
    font-size: 1em;
 }
@@ -280,7 +281,7 @@ a:active {
 
 .category .category-list li {
    display: block;
-   padding: 0 20px;
+   padding: 0 10px;
    overflow: hidden;
    height: 0;
    line-height: 0;
