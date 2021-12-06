@@ -169,17 +169,29 @@ a:active {
    font-size: 1em;
 }
 
+#sidebar-check {
+   display: none;
+}
+
 /* заголовок */
-.topbar {
+.topbar, #page-title {
+   top: 0;
    user-select: none;
+   /* display: flex; */
    background: #515c6b;
    color: #ffff;
-   font-size: 1.25em;
-   height: 50px;
+   font-size: 1.2em;
    line-height: 50px;
-   position: fixed;
-   top: 0;
+   /*  ширна элемента */
    width: 100%;
+   max-width: 100%;
+   min-width: 320px;
+   /* высота элемента */
+   height: 50px;
+   min-height: 50px;
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
 }
 
 /* кнопка меню */
@@ -191,77 +203,89 @@ a:active {
    width: 50px;
 }
 
-#sidebar-check {
-   display: none;
+.content {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+
+   top: 50px;
+   /*  ширна элемента на максимум */
+   width: 100%;
+   min-width: 100%;
+   max-width: 100%;
+   /* высота элемента */
+   height: calc(100%-50px);
+   min-height: calc(100%-50px);
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
 }
 
 /* Переключаемая боковая панель навигациивыдвигающаяся по клику слева */
 #sidebar {
+   /* display: inline-block; */
    color: #fff;
    overflow-y: auto;
-   overflow-x: hidden;
+   overflow-x: visible;
    /*  ширна элемента */
    width: 320px;
+   max-width: 320px;
    min-width: 320px;
-   /* фиксируем и выставляем высоту панели на максимум */
-   position: fixed;
-   top: 50px;
-   bottom: 0;
-   margin: 0;
-   height: 100hv;
-   /* сдвигаем (прячем) панель относительно левого края страницы */
-   left: -320px;
-   /* внутренние отступы */
-   padding: 10px 10px;
-   /* плавный переход смещения панели */
-   transition: left 0.3s;
+   /* выставляем высоту элемента */
+   height: calc(100%-50px);
+   min-height: calc(100%-50px);
+   max-height: calc(100%-50px);
    /* определяем цвет фона панели */
    background: #1f252c;
+   /* внешние и внутренние отступы */
+   /* margin: 0; */
+   padding: 10px 10px;
+
+   box-sizing: border-box;
 }
 
 #sidebar-check:checked~#sidebar {
-   transform: translate3d(320px, 0, 0);
-   position: absolute;
+   display: none;
 }
 
 /* область содержания, когда меню закрыто */
 #main {
-   position: absolute;
+   align-self: stretch;
+
+   /* display: inline-block; */
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
+
    overflow: hidden;
    /*  ширна элемента */
-   width: 100%;
-   /* фиксируем и выставляем высоту элемента на максимум */
-   margin: 50px 0px 0px 0px;
-   height: 100%;
-   /* внутренние отступы */
-   padding: 0px 0px 50px 0px;
+   width: calc(100% - 320px);
+   min-width: calc(100% - 320px);
+   /* выставляем высоту элемента */
+   height: calc(100% - 50px);
+   min-height: calc(100% - 50px);
+
+   box-sizing: border-box;
 }
 
-#main-content {
+#sidebar-check:checked~#main {
+   width: 100%;
+   min-width: 100%;
+}
+
+#main-frame {
    overflow-x: auto;
    overflow-y: auto;
    /*  ширна элемента */
    width: 100%;
-   /* фиксируем и выставляем высоту элемента на максимум */
-   margin: 0px 0px 0px 0px;
+   min-width: 100%;
+   max-width: 100%;
+   /* высота элемента */
    height: 100%;
-   /* внутренние отступы */
-   padding: 0px 0px 0px 0px;
-
-}
-
-/* область содержания, когда меню открыто */
-#sidebar-check:checked~#main {
-   transform: translate3d(320px, 0, 0);
-   position: absolute;
-   overflow: hidden;
-   /*  ширна элемента */
-   width: 100%;
-   /* фиксируем и выставляем высоту элемента на максимум */
-   margin: 50px 0px 0px 0px;
-   height: 100%;
-   /* внутренние отступы */
-   padding: 0px 320px 50px 0px;
+   min-height: 100%;
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
 }
 
 .category-check {
