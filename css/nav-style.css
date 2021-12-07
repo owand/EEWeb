@@ -1,147 +1,22 @@
 @charset "UTF-8";
 
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-   margin: 0;
-   padding: 0;
-   border: 0;
-   vertical-align: baseline;
-}
-
-ol,
-ul {
-   list-style: none;
-}
-
-table {
-   border-collapse: collapse;
-   border-spacing: 0;
-}
-
-caption,
-th,
-td {
-   text-align: left;
-   font-weight: normal;
-   vertical-align: middle;
-}
-
-q,
-blockquote {
-   quotes: none;
-}
-
-q:before,
-q:after,
-blockquote:before,
-blockquote:after {
-   content: "";
-   content: none;
-}
-
-a img {
-   border: none;
-}
-
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-menu,
-nav,
-section,
-summary {
-   display: block;
-}
-
 body {
    font: 1em 'Open Sans', sans-serif;
    overflow: hidden;
    background-color: #2D353E;
+   /*  ширна элемента */
+   width: 100%;
+   min-width: 100%;
+   /* высота элемента */
+   height: 100%;
+   min-height: 100%;
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
+}
+
+a img {
+   border: none;
 }
 
 /* Цвет ссылок */
@@ -174,41 +49,57 @@ a:active {
 }
 
 /* заголовок */
-.topbar, #page-title {
+.topbar {
    top: 0;
-   user-select: none;
-   /* display: flex; */
    background: #515c6b;
    color: #ffff;
-   font-size: 1.2em;
+   font-size: 1.3em;
    line-height: 50px;
    /*  ширна элемента */
    width: 100%;
-   max-width: 100%;
-   min-width: 320px;
+   min-width: 100%;
    /* высота элемента */
    height: 50px;
    min-height: 50px;
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
+
 }
 
 /* кнопка меню */
-#hamburger {
+.hamburger {
+   display: inline-block;
+   user-select: none;
    cursor: pointer;
-   display: block;
-   float: left;
    text-align: center;
+   /* высота элемента */
+   height: inherit;
+   min-height: inherit;
+   /*  ширна элемента */
    width: 50px;
+   min-width: 50px;
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
+}
+
+.page-title {
+   display: inline-block;
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0 0 0 5px;
 }
 
 .content {
    display: flex;
    flex-direction: row;
    flex-wrap: nowrap;
-
+   /*  позиция элемента */
    top: 50px;
+   right: 0;
+   bottom: 0;
+   left: 0;
    /*  ширна элемента на максимум */
    width: 100%;
    min-width: 100%;
@@ -223,40 +114,33 @@ a:active {
 
 /* Переключаемая боковая панель навигациивыдвигающаяся по клику слева */
 #sidebar {
-   /* display: inline-block; */
+   position: static;
+   float: left;
+
    color: #fff;
    overflow-y: auto;
    overflow-x: visible;
    /*  ширна элемента */
-   width: 320px;
-   max-width: 320px;
-   min-width: 320px;
-   /* выставляем высоту элемента */
-   height: calc(100%-50px);
-   min-height: calc(100%-50px);
-   max-height: calc(100%-50px);
+   width: 300px;
+   max-width: 300px;
+   min-width: 300px;
    /* определяем цвет фона панели */
    background: #1f252c;
    /* внешние и внутренние отступы */
-   /* margin: 0; */
+   margin: 0;
    padding: 10px 10px;
-
-   box-sizing: border-box;
 }
 
 #sidebar-check:checked~#sidebar {
    display: none;
+   position: absolute;
 }
 
 /* область содержания, когда меню закрыто */
 #main {
-   align-self: stretch;
-
-   /* display: inline-block; */
-   /* внешние и внутренние отступы */
-   margin: 0;
-   padding: 0;
-
+   position: absolute;
+   float: left;
+   left: 320px;
    overflow: hidden;
    /*  ширна элемента */
    width: calc(100% - 320px);
@@ -264,13 +148,20 @@ a:active {
    /* выставляем высоту элемента */
    height: calc(100% - 50px);
    min-height: calc(100% - 50px);
-
-   box-sizing: border-box;
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
 }
 
 #sidebar-check:checked~#main {
+   position: absolute;
+   left: 0;
+   /*  ширна элемента */
    width: 100%;
    min-width: 100%;
+   /* выставляем высоту элемента */
+   height: calc(100% - 50px);
+   min-height: calc(100% - 50px);
 }
 
 #main-frame {
@@ -286,6 +177,7 @@ a:active {
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
+   border: 0;
 }
 
 .category-check {
@@ -296,12 +188,22 @@ a:active {
    user-select: none;
    position: relative;
    display: block;
-   /* высота строки категории */
-   line-height: 50px;
-   text-transform: uppercase;
-   padding: 0 10px;
    cursor: pointer;
    font-size: 1em;
+   text-transform: uppercase;
+   /*  ширна элемента */
+   width: 300px;
+   min-width: 300px;
+   max-width: 300px;
+   /* высота элемента */
+   height: 48px;
+   min-height: 48px;
+   /* высота строки категории */
+   line-height: 48px;
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
+
 }
 
 .category .category-label:after {
@@ -314,6 +216,12 @@ a:active {
 
 .category-check:checked+.category .category-label:after {
    transform: rotate3d(0, 0, 1, 180deg);
+}
+
+ul {
+   /* внешние и внутренние отступы */
+   margin: 0;
+   padding: 0;
 }
 
 .category .category-list li {
@@ -330,9 +238,4 @@ a:active {
    height: 32px;
    line-height: 32px;
    margin-bottom: 8px;
-}
-
-.category .category-list li label {
-   display: block;
-   cursor: pointer;
 }
