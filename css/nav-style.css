@@ -121,14 +121,14 @@ a:active {
    overflow-y: auto;
    overflow-x: visible;
    /*  ширна элемента */
-   width: 300px;
-   max-width: 300px;
-   min-width: 300px;
+   width: 295px;
+   max-width: 295px;
+   min-width: 295px;
    /* определяем цвет фона панели */
    background: #1f252c;
    /* внешние и внутренние отступы */
    margin: 0;
-   padding: 10px 10px;
+   padding: 10px 15px;
 }
 
 #sidebar-check:checked~#sidebar {
@@ -192,9 +192,8 @@ a:active {
    font-size: 1em;
    text-transform: uppercase;
    /*  ширна элемента */
-   width: 300px;
-   min-width: 300px;
-   max-width: 300px;
+   width: inherit;
+   min-width: inherit;
    /* высота элемента */
    height: 48px;
    min-height: 48px;
