@@ -105,8 +105,8 @@ a:active {
    min-width: 100%;
    max-width: 100%;
    /* высота элемента */
-   height: calc(100%-50px);
-   min-height: calc(100%-50px);
+   /* height: calc(100%-50px); */
+   /* min-height: calc(100%-50px); */
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
@@ -118,12 +118,15 @@ a:active {
    float: left;
 
    color: #fff;
-   overflow-y: auto;
-   overflow-x: visible;
+   /* overflow-y: auto; */
+   /* overflow-x: visible; */
    /*  ширна элемента */
    width: 295px;
    max-width: 295px;
    min-width: 295px;
+   /* высота элемента */
+   height: 100%;
+   min-height: 100%;
    /* определяем цвет фона панели */
    background: #1f252c;
    /* внешние и внутренние отступы */
