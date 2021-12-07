@@ -4,6 +4,7 @@ body {
    font: 1em 'Open Sans', sans-serif;
    overflow: hidden;
    background-color: #2D353E;
+   vertical-align: baseline;
    /*  ширна элемента */
    width: 100%;
    min-width: 100%;
@@ -13,6 +14,7 @@ body {
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
+
 }
 
 a img {
@@ -50,6 +52,7 @@ a:active {
 
 /* заголовок */
 .topbar {
+   position: fixed;
    top: 0;
    background: #515c6b;
    color: #ffff;
@@ -64,7 +67,6 @@ a:active {
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
-
 }
 
 /* кнопка меню */
@@ -92,9 +94,7 @@ a:active {
 }
 
 .content {
-   display: flex;
-   flex-direction: row;
-   flex-wrap: nowrap;
+   position: absolute;
    /*  позиция элемента */
    top: 50px;
    right: 0;
@@ -104,34 +104,28 @@ a:active {
    width: 100%;
    min-width: 100%;
    max-width: 100%;
-   /* высота элемента */
-   /* height: calc(100%-50px); */
-   /* min-height: calc(100%-50px); */
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
+
+   overflow: auto;
 }
 
 /* Переключаемая боковая панель навигациивыдвигающаяся по клику слева */
 #sidebar {
-   position: static;
-   float: left;
-
+   position: absolute;
+   top: 0;
+   bottom: 0;
+   left: 0;
+   right: calc(100% - 320px);
    color: #fff;
-   /* overflow-y: auto; */
-   /* overflow-x: visible; */
-   /*  ширна элемента */
-   width: 295px;
-   max-width: 295px;
-   min-width: 295px;
-   /* высота элемента */
-   height: 100%;
-   min-height: 100%;
+   overflow-y: auto;
+   overflow-x: hidden;
    /* определяем цвет фона панели */
    background: #1f252c;
    /* внешние и внутренние отступы */
    margin: 0;
-   padding: 10px 15px;
+   padding: 10px 10px 10px 15px;
 }
 
 #sidebar-check:checked~#sidebar {
@@ -142,15 +136,16 @@ a:active {
 /* область содержания, когда меню закрыто */
 #main {
    position: absolute;
-   float: left;
+   top: 0;
+   bottom: 0;
    left: 320px;
+   right: 0;
    overflow: hidden;
    /*  ширна элемента */
    width: calc(100% - 320px);
    min-width: calc(100% - 320px);
    /* выставляем высоту элемента */
-   height: calc(100% - 50px);
-   min-height: calc(100% - 50px);
+   height: 100%;
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
@@ -162,9 +157,6 @@ a:active {
    /*  ширна элемента */
    width: 100%;
    min-width: 100%;
-   /* выставляем высоту элемента */
-   height: calc(100% - 50px);
-   min-height: calc(100% - 50px);
 }
 
 #main-frame {
@@ -194,9 +186,6 @@ a:active {
    cursor: pointer;
    font-size: 1em;
    text-transform: uppercase;
-   /*  ширна элемента */
-   width: inherit;
-   min-width: inherit;
    /* высота элемента */
    height: 48px;
    min-height: 48px;
@@ -205,7 +194,6 @@ a:active {
    /* внешние и внутренние отступы */
    margin: 0;
    padding: 0;
-
 }
 
 .category .category-label:after {
