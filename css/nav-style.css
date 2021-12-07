@@ -128,7 +128,7 @@ a:active {
 }
 
 /* Переключаемая боковая панель навигациивыдвигающаяся по клику слева */
-#sidebar {
+.meny {
    position: absolute;
    top: 0;
    bottom: 0;
@@ -144,7 +144,7 @@ a:active {
    padding: 10px 10px 10px 15px;
 }
 
-#sidebar-check:checked~#sidebar {
+#meny-check:checked~.meny {
    display: none;
    position: absolute;
 }
@@ -167,7 +167,7 @@ a:active {
    padding: 0;
 }
 
-#sidebar-check:checked~#main {
+#meny-check:checked~#main {
    position: absolute;
    left: 0;
    /*  ширна элемента */
