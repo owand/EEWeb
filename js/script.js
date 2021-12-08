@@ -2,7 +2,7 @@
 var menuCheckbox = document.getElementById('menu-check');
 var menuItems = document.querySelectorAll('.category-list li');
 
-CloseMenu();
+
 
 function CloseMenu() {
    if (window.innerWidth <= 900) {
@@ -14,4 +14,10 @@ function CloseMenu() {
    }
 }
 
+
+
+// Выполняем заново при изменении размера окна
+window.addEventListener('resize', function () {
+   CloseMenu();
+});
 
