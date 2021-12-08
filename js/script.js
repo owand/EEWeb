@@ -17,7 +17,9 @@ function CloseMenu() {
 
 
 // Выполняем заново при изменении размера окна
-window.addEventListener('resize', function () {
+window.addEventListener('load', CloseMenu);
+window.addEventListener('resize', CloseMenu);
+/* window.addEventListener('resize', function () {
    CloseMenu();
-});
+}); */
 
