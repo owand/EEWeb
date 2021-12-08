@@ -62,7 +62,7 @@ a:active {
    font-size: 1em;
 }
 
-#sidebar-check {
+#menu-check {
    display: none;
 }
 
@@ -128,7 +128,7 @@ a:active {
 }
 
 /* Переключаемая боковая панель навигациивыдвигающаяся по клику слева */
-.meny {
+#menu {
    position: absolute;
    top: 0;
    bottom: 0;
@@ -144,9 +144,9 @@ a:active {
    padding: 10px 10px 10px 15px;
 }
 
-#meny-check:checked~.meny {
+#menu-check:checked~#menu {
    display: none;
-   position: absolute;
+   /* position: absolute; */
 }
 
 /* область содержания, когда меню закрыто */
@@ -167,8 +167,8 @@ a:active {
    padding: 0;
 }
 
-#meny-check:checked~#main {
-   position: absolute;
+#menu-check:checked~#main {
+   /* position: absolute; */
    left: 0;
    /*  ширна элемента */
    width: 100%;
