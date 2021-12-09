@@ -245,3 +245,13 @@ ul {
    line-height: 32px;
    margin-bottom: 8px;
 }
+
+/* Style the search box inside the navigation bar */
+.topbar input[type=text] {
+   float: right;
+   padding: 6px;
+   border: none;
+   margin-top: 8px;
+   margin-right: 16px;
+   font-size: 17px;
+}
