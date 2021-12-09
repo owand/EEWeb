@@ -234,6 +234,7 @@ ul {
 
 .category .category-list li {
    display: block;
+   user-select: none;
    padding: 0 10px;
    overflow: hidden;
    height: 0;
