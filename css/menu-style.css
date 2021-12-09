@@ -289,13 +289,13 @@ ul {
    height: 30px;
    min-height: 30px;
    max-height: 30px;
-   padding: 0;
+   width: 212px;
+   min-width: 212px;
+   max-width: 212px;
+   padding: 0 4px 0 4px;
    margin: 0;
    font-size: 0.8em;
    border: none;
-   width: 220px;
-   min-width: 220px;
-   max-width: 220px;
 }
 
 .topbar .search-container button {
@@ -332,7 +332,8 @@ ul {
 /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
 @media screen and (max-width: 600px) {
    .topbar .search-container {
-      float: left;
+      /* float: left; */
+      display: none;
    }
 
    .topbar a, .topbar input[type=text], .topbar .search-container button {
