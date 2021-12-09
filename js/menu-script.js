@@ -1,6 +1,6 @@
 
-var menuCheckbox = document.getElementById('menu-check');
-var menuItems = document.querySelectorAll('.category-list li');
+const menuCheckbox = document.getElementById('menu-check');
+const menuItems = document.querySelectorAll('.category-list li');
 
 
 
