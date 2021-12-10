@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url><loc>https://owand.github.io/EEWeb/</loc></url>
-   <url><loc>https://owand.github.io/EEWeb/index.html</loc></url>
-   <url><loc>https://owand.github.io/EEWeb/main.html</loc></url>
+	<url>
+		<loc>https://owand.github.io/EEWeb/</loc>
+		<xhtml:link rel="alternate" hreflang="ru-ru" href="https://owand.github.io/EEWeb/" />
+	</url>
+   <url>
+      <loc>https://owand.github.io/EEWeb/index.html</loc>
+		<xhtml:link rel="alternate" hreflang="ru-ru" href="https://owand.github.io/EEWeb/index.html" />
+   </url>
+   <url>
+      <loc>https://owand.github.io/EEWeb/main.html</loc>
+      <xhtml:link rel="alternate" hreflang="ru-ru" href="https://owand.github.io/EEWeb/main.html" />
+   </url>
 
    <url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/</loc></url>
 	<url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/001.htm</loc></url>
