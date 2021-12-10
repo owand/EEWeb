@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	<url>
-		<loc>https://owand.github.io/EEWeb/</loc>
-	</url>
-	<url>
-		<loc>https://owand.github.io/EEWeb/nalogi/filosof/</loc>
-	</url>
-    <url>
-		<loc>https://owand.github.io/EEWeb/nalogi/grey/</loc>
-	</url>
-    <url>
-		<loc>https://owand.github.io/EEWeb/nalogi/protax/</loc>
-	</url>
+	<url><loc>https://owand.github.io/EEWeb/</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/index.html</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/main.html</loc></url>
+
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/</loc></url>
+	<url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/001.htm</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/002.htm</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/003.htm</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/004.htm</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/005.htm</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/filosof/006.htm</loc></url>
+
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/grey/</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/grey/000.htm</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/grey/001.htm</loc></url>
+   
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/protax/</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/protax/001.htm</loc></url>
+   <url><loc>https://owand.github.io/EEWeb/content/nalogi/protax/002.htm</loc></url>
 </urlset>
